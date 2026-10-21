@@ -1,0 +1,147 @@
+=== q098  [en/time]
+QUESTION: Which film won the Palme d'Or in 2018?
+ANSWER:   Shoplifters, by Hirokazu Kore-eda.
+SOURCE:   Shoplifters (film) / Introduction
+PASSAGE:  Shoplifters premiered at the 2018 Cannes Film Festival, where it won the Palme d'Or. The film was released in Japan on 8 June 2018 and was a critical and commercial success. Shoplifters won three Mainichi Film Awards, including Best Film, and the Asia Pacific Screen Award for Best Feature Film, and was nominated for Best Foreign Language Film at the Oscars and the Golden Globes.
+OK? [  ] yes   [  ] wrong answer   [  ] unclear question   [  ] passage does not say it
+
+=== q109  [en/time]
+QUESTION: Which film won Best Picture at the 85th Academy Awards?
+ANSWER:   Argo.
+SOURCE:   Argo (2012 film) / Introduction
+PASSAGE:  Argo became a box office success, grossing $232 million worldwide, and receiving widespread critical acclaim for the acting, Affleck's direction, Terrio's screenplay, the editing, and Desplat's score. Commentators and participants in the actual operation criticized flaws in historical accuracy. The film received seven nominations at the 85th Academy Awards and won three, for Best Picture, Best Adapted Screenplay, and Best Film Editing.
+OK? [  ] yes   [  ] wrong answer   [  ] unclear question   [  ] passage does not say it
+
+=== q028  [en/time]
+QUESTION: Which film won Best Picture at the 90th Academy Awards?
+ANSWER:   The Shape of Water.
+SOURCE:   The Shape of Water / Introduction
+PASSAGE:  The Shape of Water was widely acclaimed by critics, who lauded its acting, screenplay, direction, visuals, production design, cinematography, and musical score. The American Film Institute selected it as one of the top ten films of 2017. The film was nominated for a leading thirteen awards at the 90th Academy Awards, winning four, including Best Picture and Best Director, and received numerous other accolades; it was the second fantasy film to win Best Picture, after The Lord of the Rings: The R
+OK? [  ] yes   [  ] wrong answer   [  ] unclear question   [  ] passage does not say it
+
+=== q036  [en/time]
+QUESTION: Which film won Best Picture at the 45th Academy Awards?
+ANSWER:   The Godfather.
+SOURCE:   The Godfather / Introduction
+PASSAGE:  The Godfather premiered at the Loew's State Theatre on March 14, 1972, and was widely released in the United States on March 24, 1972. It was the highest-grossing film of 1972, and was for a time the highest-grossing film ever made, earning between $250 and $291 million at the box office. The film was acclaimed by critics and audiences, who praised its performances—particularly those of Brando and Pacino—direction, screenplay, story, cinematography, editing, score, and portrayal of the Mafia. Th
+OK? [  ] yes   [  ] wrong answer   [  ] unclear question   [  ] passage does not say it
+
+=== q107  [fr/single]
+QUESTION: Qui a réalisé L'Homme qui a vendu sa peau ?
+ANSWER:   Kaouther Ben Hania.
+SOURCE:   L'Homme qui a vendu sa peau / Introduction
+PASSAGE:  L'Homme qui a vendu sa peau (arabe : الرجل الذي باع ظهره, Ar-rajul Allaḏī Bāa Ẓahrahu ; anglais : The Man Who Sold His Skin) est une coproduction internationale réalisée par Kaouther Ben Hania et sorti en 2020.
+OK? [  ] yes   [  ] wrong answer   [  ] unclear question   [  ] passage does not say it
+
+=== q014  [en/vague]
+QUESTION: carthage festival prize
+ANSWER:   The Tanit d'Or.
+SOURCE:   Carthage Film Festival / Introduction
+PASSAGE:  A directing committee chaired by the Tunisian Ministry of Culture, joined with professionals of the cinema industry, is in charge of the organization. The Carthage Film Festival has been designed as a film festival engaged in the cause of African and Arab countries and enhancing Global South cinema in general. The main prize awarded is the Tanit d'or ("Golden Tanit"), named after the Carthaginian goddess Tanit. Opening and closing ceremonies are held in the Théâtre municipal de Tunis (Municipal 
+OK? [  ] yes   [  ] wrong answer   [  ] unclear question   [  ] passage does not say it
+
+=== q047  [fr/single]
+QUESTION: Qui a réalisé La Leçon de piano ?
+ANSWER:   Jane Campion.
+SOURCE:   La Leçon de piano / Introduction
+PASSAGE:  La Leçon de piano, un film de Jane Campion sorti en 1993.
+OK? [  ] yes   [  ] wrong answer   [  ] unclear question   [  ] passage does not say it
+
+=== q072  [en/vague]
+QUESTION: tarantino palme
+ANSWER:   Pulp Fiction (Palme d'Or, 1994).
+SOURCE:   Pulp Fiction / Introduction
+PASSAGE:  Pulp Fiction premiered at the 1994 Cannes Film Festival where it won the Palme d'Or, and was a major critical and commercial success. It received seven nominations at the 67th Academy Awards, including Best Picture, and won Best Original Screenplay; Travolta, Jackson, and Thurman were nominated for Best Actor, Best Supporting Actor, and Best Supporting Actress respectively. As a result of the film's success, Travolta's career was reinvigorated. The film's development, marketing, distribution, an
+OK? [  ] yes   [  ] wrong answer   [  ] unclear question   [  ] passage does not say it
+
+=== q094  [en/single]
+QUESTION: For which category was The Man Who Sold His Skin nominated at the Academy Awards?
+ANSWER:   Best International Feature Film.
+SOURCE:   The Man Who Sold His Skin / Introduction
+PASSAGE:  The Man Who Sold His Skin (Arabic: الرجل الذي باع ظهره, romanized: ar-rajul allaḏī bāʿa ẓahrahu, lit. 'The Man Who Sold His Back') is a 2020 internationally co-produced drama film directed by Kaouther Ben Hania. Its plot was inspired by Belgian contemporary artist Wim Delvoye's living work Tim (2006), which was in turn inspired by Roald Dahl's 1952 short story "Skin". It was selected as the Tunisian entry for the Best International Feature Film at the 93rd Academy Awards, making the shortlist of
+OK? [  ] yes   [  ] wrong answer   [  ] unclear question   [  ] passage does not say it
+
+=== q073  [en/multi]
+QUESTION: Name three films in the corpus that won eleven Academy Awards.
+ANSWER:   Ben-Hur (1959), Titanic (1997), and The Lord of the Rings: The Return of the King.
+SOURCE:   Ben-Hur (1959 film) / Introduction
+PASSAGE:  Following a $14.7 million marketing effort, Ben-Hur premiered at Loew's State Theatre in New York City on November 18, 1959. It was the fastest-grossing as well as the highest-grossing film of 1959, becoming the second highest-grossing film in history at the time, after Gone with the Wind. It won a record eleven Academy Awards, including Best Picture, Best Director (Wyler), Best Actor in a Leading Role (Heston), Best Actor in a Supporting Role (Griffith), and Best Cinematography – Color (Surtees
+SOURCE:   Titanic (1997 film) / Introduction
+PASSAGE:  Titanic premiered at the Tokyo International Film Festival on November 1, 1997, and was released in the United States on December 19. It was distributed by Paramount Pictures in the United States and Canada and by 20th Century Fox in other territories. It was praised for its visual effects, performances (particularly those of DiCaprio, Winslet, and Gloria Stuart), production values, direction, score, cinematography, story, and emotional depth. Among other awards, the film received fourteen nomin
+SOURCE:   The Lord of the Rings: The Return of the King / Accolades
+PASSAGE:  The film was nominated for eleven Academy Awards: Best Picture, Best Director, Best Adapted Screenplay, Best Original Score, Best Original Song, Best Visual Effects, Best Art Direction, Best Costume Design, Best Make-up, Best Sound Mixing and Best Film Editing. At the 76th Academy Awards in 2004, the film won all the categories for which it was nominated and it shares the record for highest Academy Award totals along with Titanic (which also starred Bernard Hill) and Ben-Hur, and holding the rec
+OK? [  ] yes   [  ] wrong answer   [  ] unclear question   [  ] passage does not say it
+
+=== q023  [fr/single]
+QUESTION: Quelle récompense Parasite a-t-il reçue au Festival de Cannes 2019 ?
+ANSWER:   La Palme d'or.
+SOURCE:   Parasite (film, 2019) / Introduction
+PASSAGE:  Parasite est présenté en compétition officielle au Festival de Cannes 2019, où il remporte la Palme d'or à l'unanimité du jury. Il est le premier film sud-coréen à obtenir cette récompense. Il sort ensuite en Corée du Sud le 30 mai 2019, distribué par CJ Entertainment. Le film est considéré par de nombreux critiques comme le meilleur film de 2019 et l'un des meilleurs du XXIe siècle. Il rapporte plus de 263 millions de dollars dans le monde pour un budget de 15,5 millions de dollars.
+OK? [  ] yes   [  ] wrong answer   [  ] unclear question   [  ] passage does not say it
+
+=== q012  [en/multi]
+QUESTION: Which Tunisian director made one film nominated for Best International Feature and another nominated for Best Documentary Feature?
+ANSWER:   Kaouther Ben Hania, with The Man Who Sold His Skin and Four Daughters.
+SOURCE:   The Man Who Sold His Skin / Introduction
+PASSAGE:  The Man Who Sold His Skin (Arabic: الرجل الذي باع ظهره, romanized: ar-rajul allaḏī bāʿa ẓahrahu, lit. 'The Man Who Sold His Back') is a 2020 internationally co-produced drama film directed by Kaouther Ben Hania. Its plot was inspired by Belgian contemporary artist Wim Delvoye's living work Tim (2006), which was in turn inspired by Roald Dahl's 1952 short story "Skin". It was selected as the Tunisian entry for the Best International Feature Film at the 93rd Academy Awards, making the shortlist of
+SOURCE:   Four Daughters (2023 film) / Introduction
+PASSAGE:  Four Daughters (Arabic: بنات ألفة, romanized: Banāt Olfa, French: Les Filles d'Olfa, lit. 'Olfa's Daughters') is a 2023 Arabic-language documentary film directed by Kaouther Ben Hania.  The film tells the story of a Tunisian family after two of four daughters leave to join Daesh fighters in Libya. The filmmaker invites professional actors to stand in for the missing daughters and others in the retelling of the story. The film is an international co-production between France, Tunisia, Germany, an
+OK? [  ] yes   [  ] wrong answer   [  ] unclear question   [  ] passage does not say it
+
+=== q070  [fr/single]
+QUESTION: Qui a réalisé La Belle et la Meute ?
+ANSWER:   Kaouther Ben Hania.
+SOURCE:   La Belle et la Meute / Introduction
+PASSAGE:  La Belle et la Meute (arabe : على كف عفريت, soit Aala Kaf Ifrit) est une coproduction internationale réalisée par Kaouther Ben Hania. Ce thriller est sorti en 2017.
+OK? [  ] yes   [  ] wrong answer   [  ] unclear question   [  ] passage does not say it
+
+=== q039  [fr/vague]
+QUESTION: Haneke Palme d'or
+ANSWER:   Le Ruban blanc (2009) et Amour (2012).
+SOURCE:   Le Ruban blanc / Introduction
+PASSAGE:  Il est lauréat de la Palme d'or lors du Festival de Cannes 2009.
+SOURCE:   Amour (film, 2012) / Introduction
+PASSAGE:  Le film a bénéficié d'un excellent accueil de la critique et a reçu de nombreuses distinctions de la part des professionnels du cinéma : Palme d'or au festival de Cannes, Golden Globe du meilleur film étranger, deux BAFTA Awards ou encore l'Oscar du meilleur film étranger. Enfin, lors de la 38e cérémonie des César, il devient le deuxième long métrage, 32 ans après Le Dernier Métro de François Truffaut, à gagner les cinq trophées les plus prestigieux : meilleur film, meilleur réalisateur (Michael
+OK? [  ] yes   [  ] wrong answer   [  ] unclear question   [  ] passage does not say it
+
+=== q053  [fr/single]
+QUESTION: Qui a réalisé La Vie d'Adèle ?
+ANSWER:   Abdellatif Kechiche.
+SOURCE:   La Vie d'Adèle : Chapitres 1 et 2 / Introduction
+PASSAGE:  La Vie d'Adèle : Chapitres 1 et 2, souvent désigné simplement sous le titre La Vie d'Adèle, est un film belgo-hispano-français écrit, produit et réalisé par Abdellatif Kechiche, sorti en 2013.
+OK? [  ] yes   [  ] wrong answer   [  ] unclear question   [  ] passage does not say it
+
+=== q006  [en/single]
+QUESTION: Who directed Everything Everywhere All at Once?
+ANSWER:   Daniel Kwan and Daniel Scheinert (the Daniels).
+SOURCE:   Everything Everywhere All at Once / Introduction
+PASSAGE:  Everything Everywhere All at Once is a 2022 American independent absurdist comedy-drama film written and directed by Daniel Kwan and Daniel Scheinert, who produced it with Anthony and Joe Russo and Jonathan Wang. The film incorporates media from several genres, including surreal comedy, science fiction, fantasy, martial arts films, and immigrant narrative. Michelle Yeoh stars as Evelyn Quan Wang, a Chinese-American immigrant who, while being audited by the IRS, discovers that she must connect wi
+OK? [  ] yes   [  ] wrong answer   [  ] unclear question   [  ] passage does not say it
+
+=== q063  [en/single]
+QUESTION: Who directed Oppenheimer?
+ANSWER:   Christopher Nolan.
+SOURCE:   Oppenheimer (film) / Introduction
+PASSAGE:  Oppenheimer is a 2023 epic biographical thriller film written, co-produced, and directed by Christopher Nolan. It follows the life of J. Robert Oppenheimer, the American theoretical physicist who led the development of the first nuclear weapons during World War II. Based on the 2005 biography American Prometheus by Kai Bird and Martin J. Sherwin, the film dramatizes Oppenheimer's studies, his direction of the Los Alamos Laboratory and his 1954 security hearing. Cillian Murphy stars as Oppenheime
+OK? [  ] yes   [  ] wrong answer   [  ] unclear question   [  ] passage does not say it
+
+=== q004  [en/multi]
+QUESTION: Name the first woman to win the Palme d'Or and the film she won it for.
+ANSWER:   Jane Campion, for The Piano (1993).
+SOURCE:   The Piano / Introduction
+PASSAGE:  The Piano is a 1993 historical romance film written and directed by Jane Campion. It stars Holly Hunter, Harvey Keitel, Sam Neill, and Anna Paquin in her first major acting role. The film focuses on a mute Scottish woman who travels to a remote part of New Zealand with her young daughter after her arranged marriage to a settler. The plot has similarities to Jane Mander's 1920 novel, The Story of a New Zealand River, but also substantial differences. Campion has cited the novels Wuthering Heights
+OK? [  ] yes   [  ] wrong answer   [  ] unclear question   [  ] passage does not say it
+
+=== q043  [en/vague]
+QUESTION: oscar envelope mix-up
+ANSWER:   The 2017 ceremony, when La La Land was wrongly announced instead of Moonlight.
+SOURCE:   Moonlight (2016 film) / Accolades
+PASSAGE:  Moonlight received eight nominations at the 89th Academy Awards, the second highest of all nominees, including Best Picture, Best Director, Best Supporting Actor (for Ali), Best Supporting Actress (for Harris) and Best Adapted Screenplay. The film won three awards: for Best Picture, Best Supporting Actor and Best Adapted Screenplay. At the ceremony, presenter Faye Dunaway read La La Land as the winner of Best Picture. Co-presenter Warren Beatty subsequently stated that he had been mistakenly giv
+OK? [  ] yes   [  ] wrong answer   [  ] unclear question   [  ] passage does not say it
+
+=== q008  [en/single]
+QUESTION: Who was the first African American to win an Academy Award, for Gone with the Wind?
+ANSWER:   Hattie McDaniel.
+SOURCE:   Gone with the Wind (film) / Introduction
+PASSAGE:  Gone With the Wind received generally positive reviews upon its release on December 15, 1939. While the casting was widely praised, the long running time received criticism. At the 12th Academy Awards, Gone with the Wind received ten Academy Awards (eight competitive, two honorary) from thirteen nominations, including wins for Best Picture, Best Director (Fleming), Best Adapted Screenplay (posthumously awarded to Sidney Howard), Best Actress (Leigh), and Best Supporting Actress (Hattie McDaniel,
+OK? [  ] yes   [  ] wrong answer   [  ] unclear question   [  ] passage does not say it
